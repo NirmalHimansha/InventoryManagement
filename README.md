@@ -17,15 +17,18 @@ Each department has separate admins to manage their inventory.
 Add, update, and issue items from inventory.
 Automatically updates stock when new items are added.
 Low-stock alerts for both admin and users.
+
 ✅ Multi-Department Support
 
 Create and manage departments dynamically.
 Each department has its own inventory and restricted access.
+
 ✅ Reporting & Exporting
 
 Generate visual charts for inventory insights.
 Export issued item reports as a PDF for easy sharing.
 Filter issued items by date and category for analysis.
+
 ✅ Secure & Efficient
 
 CSRF protection for secure form submissions.
