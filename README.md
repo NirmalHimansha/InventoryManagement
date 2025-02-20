@@ -1,13 +1,17 @@
+
+
+
 # Projects
 Project Overview
 This Inventory Management System is a web-based application designed to efficiently track and manage inventory across multiple departments. It provides role-based access, ensuring that admins can manage stock while regular users can view reports and low-stock alerts. The system supports multi-department inventory tracking, allowing each department to manage its own stock independently.
 
-#Key Features
+# Key Features
 ✅ User Authentication & Role Management
 
 Secure login system with Admin and User roles.
 Admins have full access to inventory, while users can only view reports.
 Each department has separate admins to manage their inventory.
+
 ✅ Dynamic Inventory Management
 
 Add, update, and issue items from inventory.
@@ -27,7 +31,7 @@ Filter issued items by date and category for analysis.
 CSRF protection for secure form submissions.
 Database-backed storage using MySQL and PHP.
 JavaScript-based charts for real-time data visualization.
-#How It Works
+# How It Works
 1️⃣ Admins login to add new items and manage stock.
 2️⃣ Users can view inventory reports and low-stock items.
 3️⃣ Admins issue items, automatically updating the stock.
