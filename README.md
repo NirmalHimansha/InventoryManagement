@@ -35,9 +35,12 @@ CSRF protection for secure form submissions.
 Database-backed storage using MySQL and PHP.
 JavaScript-based charts for real-time data visualization.
 # How It Works
-1️⃣ Admins login to add new items and manage stock.
+1️⃣ Admins login to add new items and manage stock
+
 2️⃣ Users can view inventory reports and low-stock items.
-3️⃣ Admins issue items, automatically updating the stock.
+
+3️⃣ Admins issue items, automatically updating the stock
+
 4️⃣ Issued item reports can be exported as PDF for records.
 
 This system ensures efficient inventory tracking, reduces manual errors, and improves department-based stock management. 🚀
